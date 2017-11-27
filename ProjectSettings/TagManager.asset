@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - players
+  - anemies
+  - grounds
+  - walls
+  - floors
   layers:
   - Default
   - TransparentFX
